@@ -20,3 +20,4 @@ maven-release-example/maven-release-example-webapp/.settings/*
 maven-release-example/maven-release-example-webapp/.classpath
 maven-release-example/maven-release-example-webapp/.gitignore
 maven-release-example/maven-release-example-webapp/.project
+maven-release-example/target/*
