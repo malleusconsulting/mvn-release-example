@@ -9,14 +9,14 @@
 
   <properties>
     <magnoliaVersion>5.4.5</magnoliaVersion>
-    <javaVersion>1.6</javaVersion>
+    <javaVersion>1.8</javaVersion>
   </properties>
 
-  <!-- Fill the following in, so you can use the release plugin -->
   <scm>
-    <connection/>
-    <developerConnection/>
-    <url/>
+    <connection>scm:git:git://github.com/malleusconsulting/mvn-release-example.git</connection>
+    <developerConnection>scm:git:git@github.com:malleusconsulting/mvn-release-example.git</developerConnection>
+    <url>https://github.com/malleusconsulting/mvn-release-example</url>
+    <tag>HEAD</tag>
   </scm>
 
   <dependencyManagement>
