@@ -10,3 +10,13 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+maven-release-example/.project
+maven-release-example/.settings/org.eclipse.m2e.core.prefs
+maven-release-example/example-module/.classpath
+maven-release-example/example-module/.gitignore
+maven-release-example/example-module/.project
+maven-release-example/example-module/.settings/*
+maven-release-example/maven-release-example-webapp/.settings/*
+maven-release-example/maven-release-example-webapp/.classpath
+maven-release-example/maven-release-example-webapp/.gitignore
+maven-release-example/maven-release-example-webapp/.project
